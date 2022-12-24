@@ -13,3 +13,4 @@
 - The screens are made up of common reuseable components
 - Every common compoent is written in typescript
 - to send the sms with the required data `Linking.openURL` doesn't work correctly on many android device so I have used `react-native-sms` to implement it for both iOS and android
+- more features will be added soon
